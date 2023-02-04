@@ -1,0 +1,6 @@
+download the git and install
+sign up the github and verify account
+create  the folder on the desktop and add two files
+
+git init
+git add .
